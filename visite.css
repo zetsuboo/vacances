@@ -1,0 +1,61 @@
+p{
+    font-size: 18px ;
+}
+.tete{
+    text-align: center;
+    color: red;
+}
+
+.menu{
+    font-size: 25px;
+    margin-left: 35%;
+    list-style: none;
+    display: inline;
+    }
+
+.menu li{
+    display: inline;
+    background-color: red;
+    margin: 10px;
+    text-align: center;
+}
+.image{
+    padding-top: 15px;
+    width: 100%;
+    height: 75%;
+}
+
+.pays{
+    display: inline-block;
+    width: 7em;
+    background-color: salmon;
+}
+
+
+.descri img{
+    width: 250px;
+}
+#japv {
+    margin-right: 10px;
+    float: left;
+}
+#irlv{
+    margin-right: 10px;
+    float: right;
+}
+
+div{
+    border: solid black 1px;
+}
+
+.divjap{
+    background: radial-gradient( red 25%, white 75%);
+}
+
+.divirl{
+    background-color: mediumblue;
+}
+
+.divaus{
+    background-color: mediumpurple;
+}
